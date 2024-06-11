@@ -1,0 +1,7 @@
+logging\_tutorial.logging package
+=================================
+
+.. automodule:: logging_tutorial.logging
+   :members:
+   :undoc-members:
+   :show-inheritance:
