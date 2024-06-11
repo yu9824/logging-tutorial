@@ -1,15 +1,15 @@
-# python-template
+# logging-tutorial
 
-[![CI](https://github.com/yu9824/python-template/actions/workflows/CI.yaml/badge.svg)](https://github.com/yu9824/python-template/actions/workflows/CI.yaml)
-[![docs](https://github.com/yu9824/python-template/actions/workflows/docs.yaml/badge.svg)](https://github.com/yu9824/python-template/actions/workflows/docs.yaml)
+[![CI](https://github.com/yu9824/logging-tutorial/actions/workflows/CI.yaml/badge.svg)](https://github.com/yu9824/logging-tutorial/actions/workflows/CI.yaml)
+[![docs](https://github.com/yu9824/logging-tutorial/actions/workflows/docs.yaml/badge.svg)](https://github.com/yu9824/logging-tutorial/actions/workflows/docs.yaml)
 <!--
-[![python_badge](https://img.shields.io/pypi/pyversions/python-template)](https://pypi.org/project/python-template/)
-[![license_badge](https://img.shields.io/pypi/l/python-template)](https://pypi.org/project/python-template/)
-[![PyPI version](https://badge.fury.io/py/python-template.svg)](https://pypi.org/project/python-template/)
-[![Downloads](https://static.pepy.tech/badge/python-template)](https://pepy.tech/project/python-template)
+[![python_badge](https://img.shields.io/pypi/pyversions/logging-tutorial)](https://pypi.org/project/logging-tutorial/)
+[![license_badge](https://img.shields.io/pypi/l/logging-tutorial)](https://pypi.org/project/logging-tutorial/)
+[![PyPI version](https://badge.fury.io/py/logging-tutorial.svg)](https://pypi.org/project/logging-tutorial/)
+[![Downloads](https://static.pepy.tech/badge/logging-tutorial)](https://pepy.tech/project/logging-tutorial)
 
-[![Conda Version](https://img.shields.io/conda/vn/conda-forge/python-template.svg)](https://anaconda.org/conda-forge/python-template)
-[![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/python-template.svg)](https://anaconda.org/conda-forge/python-template)
+[![Conda Version](https://img.shields.io/conda/vn/conda-forge/logging-tutorial.svg)](https://anaconda.org/conda-forge/logging-tutorial)
+[![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/logging-tutorial.svg)](https://anaconda.org/conda-forge/logging-tutorial)
 -->
 
 Before [pep518](https://peps.python.org/pep-0518/)

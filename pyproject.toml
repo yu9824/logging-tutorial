@@ -4,7 +4,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "python-template"
+name = "logging-tutorial"
 dynamic = ["version"]
 dependencies = [
     # "numpy>=1.20"
@@ -35,24 +35,24 @@ docs = ["sphinx", "sphinx_rtd_theme", "sphinx-markdown-tables", "recommonmark"]
 gui = ["TkEasyGUI"]
 
 [project.urls]
-Homepage = "https://github.com/yu9824/python-template"
+Homepage = "https://github.com/yu9824/logging-tutorial"
 # Documentation = "https://readthedocs.org"
-PyPI = "https://pypi.org/project/python-template/"
-Source = "https://github.com/yu9824/python-template"
-Tracker = "https://github.com/yu9824/python-template/issues"
-Changelog = "https://github.com/yu9824/python-template/blob/main/CHANGELOG.md"
+PyPI = "https://pypi.org/project/logging-tutorial/"
+Source = "https://github.com/yu9824/logging-tutorial"
+Tracker = "https://github.com/yu9824/logging-tutorial/issues"
+Changelog = "https://github.com/yu9824/logging-tutorial/blob/main/CHANGELOG.md"
 
 [project.scripts]
-python-template = "python_template.__main__:entrypoint"
+logging-tutorial = "logging_tutorial.__main__:entrypoint"
 
 # [project.gui-scripts]
-# python-template-gui = "python_template:main_gui"
+# logging-tutorial-gui = "logging_tutorial:main_gui"
 
 [tool.setuptools]
 package-dir = { "" = "src" }
 
 [tool.setuptools.dynamic]
-version = { attr = "python_template.__version__" }
+version = { attr = "logging_tutorial.__version__" }
 
 [tool.ruff]
 line-length = 79

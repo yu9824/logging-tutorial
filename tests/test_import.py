@@ -2,4 +2,4 @@
 
 
 def test_import():
-    import python_template.utils
+    import logging_tutorial.utils
