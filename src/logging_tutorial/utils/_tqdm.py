@@ -1,14 +1,13 @@
 import io
 from logging import INFO, Logger
+from types import TracebackType
+from typing import Optional
 
 from tqdm.auto import tqdm
 
 from ._utils import is_installed
 
 if is_installed("joblib"):
-    from types import TracebackType
-    from typing import Optional
-
     import joblib
 
     class tqdm_joblib:
